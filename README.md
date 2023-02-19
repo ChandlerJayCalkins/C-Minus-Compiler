@@ -1,5 +1,5 @@
 # C- Compiler
-This is project is a compiler for the C- programming language that was made in 14 weeks as a part of the University of Idaho's Compiler Design class in the Fall of 2022.
+This project is a compiler for the C- programming language that was made in 14 weeks as a part of the University of Idaho's Compiler Design class in the Fall of 2022.
 The Compiler generates code for the Tiny Machine (TM) virtual machine.
 The source code for the TM is also included in the [src](/src) folder along with the source code for the compiler.
 
